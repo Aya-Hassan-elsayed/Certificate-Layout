@@ -1,0 +1,222 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.Services\\Certificit.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.BLL\\Certificit.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.BLL\\Certificit.BLL.csproj",
+        "projectName": "Certificit.BLL",
+        "projectPath": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.BLL\\Certificit.BLL.csproj",
+        "packagesPath": "C:\\Users\\dev33\\.nuget\\packages\\",
+        "outputPath": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dev33\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.DAL\\Certificit.DAL.csproj": {
+                "projectPath": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.DAL\\Certificit.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.DAL\\Certificit.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.DAL\\Certificit.DAL.csproj",
+        "projectName": "Certificit.DAL",
+        "projectPath": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.DAL\\Certificit.DAL.csproj",
+        "packagesPath": "C:\\Users\\dev33\\.nuget\\packages\\",
+        "outputPath": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dev33\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.Services\\Certificit.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.Services\\Certificit.Services.csproj",
+        "projectName": "Certificit.Services",
+        "projectPath": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.Services\\Certificit.Services.csproj",
+        "packagesPath": "C:\\Users\\dev33\\.nuget\\packages\\",
+        "outputPath": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dev33\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.BLL\\Certificit.BLL.csproj": {
+                "projectPath": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.BLL\\Certificit.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

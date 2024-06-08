@@ -1,0 +1,27 @@
+﻿   <Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GeoJSON.Net" Version="1.2.19" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="NetTopologySuite.IO.GeoJSON" Version="4.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Certificit.Services\Certificit.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Reports\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+</Project>

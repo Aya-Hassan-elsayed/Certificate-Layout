@@ -1,0 +1,6 @@
+<div class="AutoCadImage">
+    <app-descrebtion-maps></app-descrebtion-maps>
+    <app-descreptions *ngIf="Data.unittype != 'ارض مقاسة بالمتر' && Data.unittype != 'ارض مقاسة بالفدان'&& Data.unittype != 'مبنى' && Data.unittype != 'مبنى بحديقة'"></app-descreptions>
+    <app-descreption-ard *ngIf="Data.unittype == 'ارض مقاسة بالمتر' || Data.unittype == 'ارض مقاسة بالفدان' || Data.unittype == 'مبنى بحديقة' "></app-descreption-ard>
+    <app-descreption-mabna *ngIf="Data.unittype == 'مبنى'"></app-descreption-mabna>
+</div>

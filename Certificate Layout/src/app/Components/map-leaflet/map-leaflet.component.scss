@@ -1,0 +1,9 @@
+@import '../../Scss/Variable.scss';
+
+#map {
+    height: 82mm !important;
+    border: 0.5mm solid $Blue-certificate-color;
+    border-top: 0;
+    position:relative;
+    overflow: hidden;
+}

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "vfoiotuVeVxhRDlVWBBbsFtxvGYOtEhjXoHiJiPGWAI=",
+  "Source": "Certificit.PL",
+  "BasePath": "_content/Certificit.PL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Certificit.PL\\wwwroot",
+      "Source": "Certificit.PL",
+      "ContentRoot": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.PL\\wwwroot\\",
+      "BasePath": "_content/Certificit.PL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

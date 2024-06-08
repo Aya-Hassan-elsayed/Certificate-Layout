@@ -1,0 +1,52 @@
+@import '../../Scss/Variable.scss';
+
+.Main-page-home
+{
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: $main-color;
+    color: #FFF;
+    border-radius: 10px;
+    div 
+    {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        height: 50%;
+
+        img 
+        {
+            width: 25%;
+            border-radius: 7px;
+        }
+
+        div 
+        {
+            display: flex;
+            flex-direction: column;
+            p 
+            {
+                justify-content: center;
+                margin-top: 10%;
+            }
+        }
+    }
+}
+.Background
+{
+    background-color: $main-color;
+    width: 100%;
+    height: 48%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+
+    img 
+    {
+        width: 100%;
+    }
+}

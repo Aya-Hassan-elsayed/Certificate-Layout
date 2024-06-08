@@ -1,0 +1,12 @@
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\bin\Release\net7.0\KOW.DAL.deps.json
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\bin\Release\net7.0\KOW.DAL.dll
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\bin\Release\net7.0\KOW.DAL.pdb
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\obj\Release\net7.0\KOW.DAL.csproj.AssemblyReference.cache
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\obj\Release\net7.0\KOW.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\obj\Release\net7.0\KOW.DAL.AssemblyInfoInputs.cache
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\obj\Release\net7.0\KOW.DAL.AssemblyInfo.cs
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\obj\Release\net7.0\KOW.DAL.csproj.CoreCompileInputs.cache
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\obj\Release\net7.0\KOW.DAL.dll
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\obj\Release\net7.0\refint\KOW.DAL.dll
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\obj\Release\net7.0\KOW.DAL.pdb
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\obj\Release\net7.0\ref\KOW.DAL.dll

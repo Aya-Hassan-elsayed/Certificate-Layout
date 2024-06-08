@@ -1,0 +1,53 @@
+<table class="InformationRequest">
+    <tr>
+        <td colspan="4">بيانات الطلب</td>
+    </tr>
+    <tr>
+        <td>رقم الطلب</td>
+        <td colspan="3">{{Data.requestnumber}}</td>
+
+    </tr>
+    <tr>
+        <td class="size">المحافظة (اداريًا)</td>
+        <td class="size">{{Data.gov}}</td>
+        <td class="size">المحافظة (مساحيًا)</td>
+        <td class="size">{{Data.gov}}</td>
+    </tr>
+    <tr>
+        <td class="size">المركز /القسم (اداريًا)</td>
+        <td class="size">{{Data.sec}}</td>
+        <td class="size">المركز /القسم(مساحيًا)</td>
+        <td class="size">{{Data.sec}}</td>
+    </tr>
+    <tr>
+        <td class="size">الشياخة/القرية (اداريًا)</td>
+        <td class="size">{{Data.ssec}}</td>
+        <td class="size">الشياخة/القرية(مساحيًا)</td>
+        <td class="size">{{Data.ssec}}</td>
+    </tr>
+    <tr>
+        <td>العنوان بالتفصيل</td>
+        <td colspan="3" class="size">{{Data.propertyN}} {{Data.streetname}}</td>
+
+    </tr>
+    <tr>
+        <td>تاريخ تقديم الطلب</td>
+        <td colspan="3">{{Data.addeddate}}</td>
+
+    </tr>
+    <tr>
+        <td class="size">تاريخ الرفع المساحى</td>
+        <td colspan="3">{{Data.dueDate}}</td>
+
+    </tr>
+    <tr>
+        <td class="size">نوع الرفع المساحى</td>
+        <td colspan="3">{{Data.unittype}}</td>
+
+    </tr>
+    <tr>
+        <td>SERAG ID</td>
+        <td colspan="3" *ngIf="Data.unittype != 'جراج' && Data.unittype != 'وحدة دوبلكس' && Data.unittype != 'وحدة تربليكس' && Data.unittype !='وحدة كوادريبلكس' && Data.unittype  != 'وحدة'">{{Data.seragid}}</td>
+        <td colspan="3" *ngIf="Data.unittype == 'جراج' || Data.unittype == 'وحدة دوبلكس' || Data.unittype == 'وحدة تربليكس' || Data.unittype =='وحدة كوادريبلكس' || Data.unittype  == 'وحدة'" >{{Data.seragshaqaa}}</td>
+    </tr>
+</table>

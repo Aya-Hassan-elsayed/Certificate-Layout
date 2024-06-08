@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Deploy\Piblish</_PublishTargetUrl>
+    <History>True|2024-04-06T15:28:49.0562100Z;True|2024-04-06T08:27:44.6723436-07:00;True|2024-04-06T08:24:57.4115119-07:00;True|2024-04-06T08:13:47.4023269-07:00;True|2024-04-06T08:12:59.5816422-07:00;True|2024-03-02T13:12:31.3889139-08:00;True|2024-03-02T12:34:40.0131416-08:00;True|2024-03-02T11:56:33.5455166-08:00;False|2024-03-02T11:55:58.9267730-08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

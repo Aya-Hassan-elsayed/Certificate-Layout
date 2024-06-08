@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+#map > div.leaflet-control-container > div.leaflet-top.leaflet-left,
+#map > div.leaflet-control-container > div.leaflet-bottom.leaflet-right
+{
+    display: none !important;
+}
+td.size,
+span.size
+{
+    height: 7mm !important;
+    max-height: 7mm !important;
+}
+body 
+{
+    font-family: 'Arial','Tahoma' !important;
+}

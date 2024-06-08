@@ -1,0 +1,250 @@
+@import '../../../Scss/Variable.scss';
+
+h6 
+{
+  text-align: center;
+  background: $sub-color;
+  padding: 1%;
+  color: #FFF;
+  border-radius: 6px;
+}
+#map 
+{
+  width: 100%;
+  height: 40vh;
+  box-shadow: 0 2px 16px 0 rgba(153, 155, 168, 0.351);
+  margin-bottom: 10px;
+  border-radius: 7px;
+}
+
+
+.statics
+{
+  width: 100%;
+  height: 15vh;
+  margin-bottom: 10px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   align-items: center;
+  div 
+  {
+    width: 18%;
+    min-height: 100%;
+    background-color: $sub-color;
+    border-radius: 7px;
+    color: #FFF;
+    font-weight: 400;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+}
+
+
+
+.box-active
+{
+  border-bottom-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+}
+.filter-list
+{
+  margin-bottom: 10px;
+  cursor: pointer;
+  box-shadow: 0 2px 16px 0 rgba(153, 155, 168, 0.351);
+
+  .header 
+  {
+    background-color: $main-color;
+    height: 60px;
+    color: #FFF;
+    font-weight: 400;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    border-radius: 7px;
+
+  }
+  .active 
+  {
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    span 
+    {
+      transform: rotate(180deg);
+    }
+  }
+  .filters
+  {
+    padding: 1%;
+    transition: all 1s ease-in-out;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+
+    div 
+    {
+      width: 48%;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      
+      p 
+      {
+        font-weight: 400;
+        font-size: 16px;
+        text-align: center;
+        line-height: 56px;
+      }
+      input ,
+      select
+      {
+        height: 56px;
+        border: 0;
+        border-radius: 7px;
+        width: 75% !important;
+        box-shadow: 0 2px 16px 0 rgba(153, 155, 168, 0.351);
+      }
+      select 
+      {
+        font-size: 18px;
+        font-weight: 400;
+      }
+    }
+
+  }
+
+  .actions 
+  {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 10px;
+    padding-bottom: 1%;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    button 
+    {
+      padding: 8px;
+      width: 100px;
+      border: 0;
+      border-radius: 7px;
+      margin-left: 10px;
+    }
+  }
+}
+table {
+    width: 100%;
+    direction: rtl;
+    thead {
+      width: 100%;
+  
+      tr {
+        height: 63px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        margin-bottom: 10px;
+        width: 100%;
+  
+        th {
+          background-color: $sub-color;
+          color: #fff;
+          text-align: center;
+          font-size: 18px;
+          font-weight: 400;
+          height: 100%;
+          width: calc(100% / 4) !important; // Adjust the number of columns as needed
+          line-height: 63px;
+          &:first-child {
+            border-top-right-radius: 7px;
+          }
+  
+          &:last-child {
+            border-top-left-radius: 7px;
+          }
+        }
+      }
+    }
+  
+    tbody {
+      width: 100%;
+  
+      tr {
+        height: 62px;
+        display: flex;
+        flex-direction: row;
+        box-shadow: 0 2px 16px 0 rgba(153, 155, 168, 0.351);
+        margin-bottom: 10px;
+        width: 100%;
+        font-size: 16px;
+        font-weight: 400;
+        justify-content: space-around;
+        border-radius: 7px;
+
+        td {
+            text-align: center;
+            font-size: 18px;
+            font-weight: 400;
+            height: 100%;
+            width: calc(100% / 4) !important; // Adjust the number of columns as needed
+            line-height: 63px;// Vertically center the content of table data cells
+
+            button 
+            {
+                background-color: $sub-color;
+                color: #FFF;
+                height: 32px;
+                border-radius: 10px;
+                line-height: 16px;
+                border: 0;
+                font-size: 14px;
+                font-weight: 400;
+                width: 100px;
+            }
+        }
+      }
+    }
+  }
+  .size 
+{
+    text-wrap: nowrap;
+}
+
+.GrageType
+{
+  border: 0;
+    margin-right: 10px;
+    background-color: $sub-color;
+    color: #FFF;
+    border-radius: 7px;
+    padding: 1%;
+    outline: 0;
+}
+.notfound
+{
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(95, 23, 23);
+  color: #FFF;
+  text-align: center;
+  height: 60px;
+  border-radius: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20;
+  font-weight: 400;
+}

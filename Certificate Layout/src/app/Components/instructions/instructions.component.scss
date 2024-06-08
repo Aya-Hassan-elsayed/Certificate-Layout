@@ -1,0 +1,57 @@
+@import '../../Scss/Variable.scss';
+
+.Instructions
+{
+    width: 278mm;
+    min-width: 278mm;
+    max-width: 278mm;
+    height: 48mm;
+    min-height: 48mm;
+    max-height: 48mm;
+    margin-top: 1mm;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    .InstructionsText {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-right: 6mm;
+        background-color: #ffeabe;
+        border: .5mm solid black;
+        h6
+        {
+            align-self: flex-start;
+            color: $note-certificate-color;
+            height: 2%;
+            margin-bottom: 1%;
+        }
+        ul 
+        {
+            width: 100%;
+            font-size: 12px;
+            height: 88%;
+            li 
+            {
+                list-style: decimal;
+            }
+        }
+    }
+    .InstructionsSgin {
+        width: 48mm;
+        min-width: 48mm;
+        max-width: 48mm;
+        height: 48mm;
+        min-height: 48mm;
+        max-height: 48mm;
+        border: .5mm solid black;
+        border-radius: 50%;
+        margin-right: 1mm;
+    }
+}
+
+.blue 
+{
+    color : $Blue-certificate-color;
+}

@@ -1,0 +1,35 @@
+
+@import '../../Scss/Variable.scss';
+.description {
+    display: flex;
+
+    .bulidingDesc {
+        height: 25mm;
+        width: calc(100% / 3);
+        border-left: 0.5mm solid $Blue-certificate-color !important;
+        border-top: 0.5mm solid $Blue-certificate-color;
+        text-align: center;
+        p 
+        {
+            border-bottom: 0.5mm solid $Blue-certificate-color !important;
+            background-color: $Yellow-certificate-color;
+            font-size: 14px;
+            font-weight: bold;
+        }
+    }
+    .buildingArea {
+        width: 67mm;
+        height: 25mm;
+        border-width: 1.5mm;
+        border-color: $Blue-certificate-color;
+        border-style: double;
+        text-align: center;
+        color: $Area-certificate-color;
+        font-size: 14px;
+        font-weight: bold;
+        div {
+            flex-direction: column !important;
+        }
+    }
+}
+

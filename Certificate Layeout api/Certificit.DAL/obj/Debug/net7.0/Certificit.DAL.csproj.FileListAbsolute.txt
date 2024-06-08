@@ -1,0 +1,31 @@
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\obj\Debug\net7.0\Certificit.DAL.csproj.AssemblyReference.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\obj\Debug\net7.0\Certificit.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\obj\Debug\net7.0\Certificit.DAL.AssemblyInfoInputs.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\obj\Debug\net7.0\Certificit.DAL.AssemblyInfo.cs
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.DAL\obj\Debug\net7.0\Certificit.DAL.csproj.CoreCompileInputs.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\Certificit.DAL.csproj.AssemblyReference.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\Certificit.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\Certificit.DAL.AssemblyInfoInputs.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\Certificit.DAL.AssemblyInfo.cs
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\Certificit.DAL.csproj.CoreCompileInputs.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\EFCoreNpgsqlNetTopologySuite.cs
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.DAL\bin\Debug\net7.0\Certificit.DAL.deps.json
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.DAL\bin\Debug\net7.0\Certificit.DAL.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.DAL\bin\Debug\net7.0\Certificit.DAL.pdb
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\Certificit.DAL.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\refint\Certificit.DAL.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\Certificit.DAL.pdb
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\ref\Certificit.DAL.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.DAL\bin\Debug\net7.0\Certificit.DAL.deps.json
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.DAL\bin\Debug\net7.0\Certificit.DAL.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.DAL\bin\Debug\net7.0\Certificit.DAL.pdb
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\Certificit.DAL.csproj.AssemblyReference.cache
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\Certificit.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\Certificit.DAL.AssemblyInfoInputs.cache
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\Certificit.DAL.AssemblyInfo.cs
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\Certificit.DAL.csproj.CoreCompileInputs.cache
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\EFCoreNpgsqlNetTopologySuite.cs
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\Certificit.DAL.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\refint\Certificit.DAL.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\Certificit.DAL.pdb
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.DAL\obj\Debug\net7.0\ref\Certificit.DAL.dll

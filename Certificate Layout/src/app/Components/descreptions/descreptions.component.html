@@ -1,0 +1,27 @@
+<div class="description">
+    <div class="bulidingDesc">
+        <p>نوع الاستخدام</p>
+        <span>{{Data.usage}}</span>
+    </div>
+    <div class="bulidingDesc">
+        <p *ngIf="Data.unittype != 'ارض مقاسة بالمتر' && Data.unittype != 'ارض مقاسة بالفدان' && Data.unittype != 'جراج'">وصف المبنى</p>
+        <p *ngIf="Data.unittype == 'جراج'">وصف الجراج</p>
+        <p *ngIf="Data.unittype == 'ارض مقاسة بالمتر' || Data.unittype == 'ارض مقاسة بالفدان'" >وصف قطعة الارض</p>
+      <span class="size">{{Data.descrip}}</span>
+    </div>
+    <div class="buildingArea">
+        <div>
+            <p *ngIf="Data.unittype != 'جراج'">
+                مساحة الوحدة بدون منافع
+                <br>
+                بناءً على الرفع المساحى
+            </p>
+            <p *ngIf="Data.unittype == 'جراج'">
+                مساحة الجراج بدون منافع
+                <br>
+                بناءً على الرفع المساحى
+            </p>
+            <p class="size">({{Data.areaAp1}})م2</p>
+        </div>
+    </div>
+</div>

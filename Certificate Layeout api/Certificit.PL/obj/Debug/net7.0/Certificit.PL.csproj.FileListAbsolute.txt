@@ -1,0 +1,285 @@
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.PL\obj\Debug\net7.0\Certificit.PL.csproj.AssemblyReference.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.PL\obj\Debug\net7.0\Certificit.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.PL\obj\Debug\net7.0\Certificit.PL.AssemblyInfoInputs.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.PL\obj\Debug\net7.0\Certificit.PL.AssemblyInfo.cs
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.PL\obj\Debug\net7.0\Certificit.PL.csproj.CoreCompileInputs.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.PL\obj\Debug\net7.0\Certificit.PL.MvcApplicationPartsAssemblyInfo.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.csproj.AssemblyReference.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.AssemblyInfoInputs.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.AssemblyInfo.cs
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.csproj.CoreCompileInputs.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.MvcApplicationPartsAssemblyInfo.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\appsettings.Development.json
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\appsettings.json
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.PL.staticwebassets.runtime.json
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.PL.exe
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.PL.deps.json
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.PL.runtimeconfig.json
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.PL.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.PL.pdb
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\AutoMapper.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Humanizer.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\NetTopologySuite.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\NetTopologySuite.IO.PostGis.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Npgsql.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Npgsql.NetTopologySuite.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\WebDriver.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\System.CodeDom.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.BLL.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.DAL.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.Services.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.BLL.pdb
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.DAL.pdb
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.Services.pdb
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\staticwebassets.build.json
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\staticwebassets.development.json
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\staticwebassets\msbuild.Certificit.PL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\staticwebassets\msbuild.build.Certificit.PL.props
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Certificit.PL.props
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Certificit.PL.props
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\staticwebassets.pack.json
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\scopedcss\bundle\Certificit.PL.styles.css
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.csproj.CopyComplete
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\refint\Certificit.PL.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.pdb
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.genruntimeconfig.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\ref\Certificit.PL.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\AxShockwaveFlashObjects.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\CrystalDecisions.CrystalReports.Engine.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\CrystalDecisions.ReportSource.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\CrystalDecisions.Shared.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ShockwaveFlashObjects.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\SAPBusinessObjects.WPF.Viewer.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\log4net.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\cs\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\da\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\de\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\en\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\es\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\fi\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\fr\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\hu\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\it\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ja\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ko\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\nb-NO\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\nl\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\pl\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\pt\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ru\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\sk\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\sv\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\th\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\tr\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\cs\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\da\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\de\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\en\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\es\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\fi\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\fr\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\hu\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\it\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ja\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ko\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\nl\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\pl\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\pt\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ru\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\sk\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\sv\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\th\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\tr\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\cs\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\da\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\de\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\en\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\es\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\fi\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\fr\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\hu\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\it\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ja\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ko\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\nb-NO\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\nl\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\pl\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\pt\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ru\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\sk\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\sv\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\th\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\tr\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\zh-CHS\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\zh-CHT\SAPBusinessObjects.WPF.Viewer.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\cs\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\da\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\de\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\en\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\es\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\fi\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\fr\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\hu\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\it\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ja\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ko\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\nb-NO\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\nl\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\pl\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\pt\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\ru\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\sk\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\sv\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\th\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\tr\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\zh-CHS\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\zh-CHT\SAPBusinessObjects.WPF.ViewerShared.resources.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.MvcApplicationPartsAssemblyInfo.cs
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.csproj.AssemblyReference.cache
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.AssemblyInfoInputs.cache
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.AssemblyInfo.cs
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.csproj.CoreCompileInputs.cache
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.MvcApplicationPartsAssemblyInfo.cs
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\appsettings.Development.json
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\appsettings.json
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.PL.staticwebassets.runtime.json
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.PL.exe
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.PL.deps.json
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.PL.runtimeconfig.json
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.PL.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.PL.pdb
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\AutoMapper.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\GeoJSON.Net.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Humanizer.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\NetTopologySuite.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\NetTopologySuite.Features.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\NetTopologySuite.IO.GeoJSON.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\NetTopologySuite.IO.PostGis.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Npgsql.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Npgsql.NetTopologySuite.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\System.CodeDom.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.BLL.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.DAL.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.Services.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.Services.pdb
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.BLL.pdb
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\bin\Debug\net7.0\Certificit.DAL.pdb
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\staticwebassets.build.json
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\staticwebassets.development.json
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\staticwebassets\msbuild.Certificit.PL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\staticwebassets\msbuild.build.Certificit.PL.props
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Certificit.PL.props
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Certificit.PL.props
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\scopedcss\bundle\Certificit.PL.styles.css
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certific.45628302.Up2Date
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\refint\Certificit.PL.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.pdb
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\Certificit.PL.genruntimeconfig.cache
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.PL\obj\Debug\net7.0\ref\Certificit.PL.dll

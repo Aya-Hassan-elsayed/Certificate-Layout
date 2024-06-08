@@ -1,0 +1,23 @@
+<table >
+    <thead >
+        <tr>
+            <th>رقم المسلسل</th>
+            <th>الاسم</th>
+            <th> البريد الالكترونى</th>
+            <th>النشاط</th>
+            <th>تاريخ </th>
+        </tr>
+    </thead>
+
+    <tbody >
+        <tr *ngFor="let log of data; let index ;">
+            <td class="size">{{log.id}}</td>
+            <td class="size">{{log.username}}</td>
+            <td class="size">{{log.email}}</td>
+            <td class="size">{{log.note}}</td>
+            <td class="size">{{log.data}}</td>
+        </tr>
+    </tbody>
+
+</table>
+    

@@ -1,0 +1,17 @@
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\bin\Release\net7.0\KOW.Services.deps.json
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\bin\Release\net7.0\KOW.Services.dll
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\bin\Release\net7.0\KOW.Services.pdb
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\bin\Release\net7.0\KOW.BLL.dll
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\bin\Release\net7.0\KOW.DAL.dll
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\bin\Release\net7.0\KOW.BLL.pdb
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\bin\Release\net7.0\KOW.DAL.pdb
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\obj\Release\net7.0\KOW.Services.csproj.AssemblyReference.cache
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\obj\Release\net7.0\KOW.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\obj\Release\net7.0\KOW.Services.AssemblyInfoInputs.cache
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\obj\Release\net7.0\KOW.Services.AssemblyInfo.cs
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\obj\Release\net7.0\KOW.Services.csproj.CoreCompileInputs.cache
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\obj\Release\net7.0\KOW.Services.csproj.CopyComplete
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\obj\Release\net7.0\KOW.Services.dll
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\obj\Release\net7.0\refint\KOW.Services.dll
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\obj\Release\net7.0\KOW.Services.pdb
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.Services\obj\Release\net7.0\ref\KOW.Services.dll

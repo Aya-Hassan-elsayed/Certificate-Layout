@@ -1,0 +1,45 @@
+<div>
+  <form class="my-form" (ngSubmit)="addNewUser(newUserData)" [formGroup]="newUserData" enctype="multipart/form-data">
+    <div class="mb-3 Theam">
+      <label for="title" class="form-label">Display Name</label>
+      <input type="text" class="form-control" id="title" formControlName="DisplayName">
+      <div *ngIf="newUserData.controls['DisplayName'].errors && newUserData.controls['DisplayName'].touched" class="alert alert-danger">
+        <p>This Field Is Required</p>
+      </div>
+    </div>
+
+    <div class="mb-3 Theam">
+      <label for="text" class="form-label">Email</label>
+      <input type="email" class="form-control" formControlName="Email" >
+      <div *ngIf="newUserData.controls['Email'].errors && newUserData.controls['Email'].touched" class="alert alert-danger">
+        <p>This Field Is Required</p>
+      </div>
+    </div>
+    <div class="mb-3 Theam arabicTitle">
+      <label for="arabicTitle" class="form-label">Phone Number</label>
+      <input type="text" class="form-control" formControlName="PhoneNumber">
+      <div *ngIf="newUserData.controls['PhoneNumber'].errors && newUserData.controls['PhoneNumber'].touched" class="alert alert-danger">
+        <p>This Field Is Required</p>
+      </div>
+    </div>
+    <div class="mb-3 Theam arabicTitle">
+      <label for="arabicTitle" class="form-label">Password</label>
+      <input type="password" class="form-control" formControlName="Password">
+      <div *ngIf="newUserData.controls['Password'].errors && newUserData.controls['Password'].touched" class="alert alert-danger">
+        <p>This Field Is Required</p>
+      </div>
+    </div>
+    <div class="mb-3 Theam arabicTitle">
+      <label for="arabicTitle" class="form-label">confirm Password</label>
+      <input type="password" class="form-control" formControlName="confirmPasswordControl">
+      <div *ngIf="newUserData.controls['confirmPasswordControl'].errors && newUserData.controls['confirmPasswordControl'].touched" class="alert alert-danger">
+        <p>This Field Is Required</p>
+      </div>
+    </div>
+    <div class="d-flex justify-content-between">
+      <button type="submit" class="btn btn-primary button" [disabled]="!newUserData.valid" >حفظ</button>
+      <button class="text-bg-danger button" (click)="bakePage()">  الرجوع للصفحة السابقة </button>
+    </div>
+    </form>
+    </div>
+

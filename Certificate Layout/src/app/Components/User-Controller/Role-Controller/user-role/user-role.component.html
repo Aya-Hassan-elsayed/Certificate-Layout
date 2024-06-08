@@ -1,0 +1,13 @@
+<div class="form-wrapper">
+  <form (ngSubmit)="addRoleForUser(newRoleData)" [formGroup]="newRoleData" class="form">
+    <select name="roles" id="roles" class="select-box" formControlName="Name">
+      <option >أختار المسئولية</option>
+      <option *ngFor="let role of data" [value]="role.name">{{ role.name }}</option>
+    </select>
+
+    <div class="d-flex justify-content-between">
+      <button type="submit" class="btn btn-primary button" [disabled]="!newRoleData.valid" >حفظ التغير </button>
+      <button class="text-bg-danger button" (click)="bakePage()">  الرجوع للصفحة السابقة </button>
+    </div>
+  </form>
+</div>

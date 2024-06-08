@@ -1,0 +1,12 @@
+.HeaderLogos {
+    width: 406mm;
+    min-width: 406mm;
+    max-width: 406mm;
+    height: 36mm;
+    min-height: 36mm;
+    max-height: 36mm;
+    border: .5mm solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

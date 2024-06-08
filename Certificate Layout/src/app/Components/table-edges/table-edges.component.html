@@ -1,0 +1,36 @@
+<table class="Edges">
+    <tr>
+        <td colspan="4" *ngIf="Data.unittype != 'ارض مقاسة بالمتر' && Data.unittype != 'ارض مقاسة بالفدان' &&Data.unittype != 'جراج'" >الحدود وأبعاد المبنى</td>
+        <td colspan="4" *ngIf="Data.unittype == 'ارض مقاسة بالمتر' || Data.unittype == 'ارض مقاسة بالفدان'">الحدود وأبعاد الارض</td>
+        <td colspan="4" *ngIf="Data.unittype == 'جراج'">الحدود وأبعاد الجراج</td>
+    </tr>
+    <tr>
+        <td class="thSpacColor">مسلسل</td>
+        <td class="thSpacColor" colspan="2">الحد</td>
+        <td class="thSpacColor">الطول بالمتر</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>البحرى</td>
+        <td class="size">{{Data.northB}}</td>
+        <td>{{Data.northL}}</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>الشرقى</td>
+        <td class="size">{{Data.eastB}}</td>
+        <td>{{Data.eastL}}</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>القبلى</td>
+        <td class="size">{{Data.southB}}</td>
+        <td>{{Data.southL}}</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>الغربى</td>
+        <td class="size">{{Data.westB}}</td>
+        <td>{{Data.westL}}</td>
+    </tr>
+</table>

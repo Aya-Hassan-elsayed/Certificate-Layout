@@ -1,0 +1,12 @@
+.AutoCadImage {
+    width: 278mm;
+    min-width: 278mm;
+    max-width: 278mm;
+    height: 191mm;
+    min-height: 191mm;
+    max-height: 191mm;
+    border: .5mm solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

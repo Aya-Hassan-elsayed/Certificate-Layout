@@ -1,0 +1,33 @@
+@import '../../Scss/Variable.scss';
+
+.Adderess {
+    width: 278mm;
+    min-width: 278mm;
+    max-width: 278mm;
+    height: 100%;
+    margin-right: 4mm;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2mm;
+    div 
+    {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        padding: 2mm;
+        font-size: 14px;
+        font-weight: bold;
+        p 
+        {
+            width: 23%;
+            span 
+            {
+                color: $Blue-certificate-color;
+            }
+        }
+    }
+}

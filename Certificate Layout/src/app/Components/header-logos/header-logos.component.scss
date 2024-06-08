@@ -1,0 +1,16 @@
+.ContainerImage {
+    width: 124mm;
+    min-width: 124mm;
+    max-width: 124mm;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    img 
+    {
+        width: 30%;
+        height: 90%;
+    }
+}
+

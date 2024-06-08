@@ -1,0 +1,35 @@
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\obj\Debug\net7.0\Certificit.BLL.csproj.AssemblyReference.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\obj\Debug\net7.0\Certificit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\obj\Debug\net7.0\Certificit.BLL.AssemblyInfoInputs.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\obj\Debug\net7.0\Certificit.BLL.AssemblyInfo.cs
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\obj\Debug\net7.0\Certificit.BLL.csproj.CoreCompileInputs.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certificit.BLL.csproj.AssemblyReference.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certificit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certificit.BLL.AssemblyInfoInputs.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certificit.BLL.AssemblyInfo.cs
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certificit.BLL.csproj.CoreCompileInputs.cache
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.BLL\bin\Debug\net7.0\Certificit.BLL.deps.json
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.BLL\bin\Debug\net7.0\Certificit.BLL.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.BLL\bin\Debug\net7.0\Certificit.BLL.pdb
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.BLL\bin\Debug\net7.0\Certificit.DAL.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.BLL\bin\Debug\net7.0\Certificit.DAL.pdb
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certificit.BLL.csproj.CopyComplete
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certificit.BLL.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\refint\Certificit.BLL.dll
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certificit.BLL.pdb
+D:\new after 29-1-2024\Test'\Kashrut_Of_World api\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\ref\Certificit.BLL.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.BLL\bin\Debug\net7.0\Certificit.BLL.deps.json
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.BLL\bin\Debug\net7.0\Certificit.BLL.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.BLL\bin\Debug\net7.0\Certificit.BLL.pdb
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.BLL\bin\Debug\net7.0\Certificit.DAL.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.BLL\bin\Debug\net7.0\Certificit.DAL.pdb
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certificit.BLL.csproj.AssemblyReference.cache
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certificit.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certificit.BLL.AssemblyInfoInputs.cache
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certificit.BLL.AssemblyInfo.cs
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certificit.BLL.csproj.CoreCompileInputs.cache
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certific.F5E2F5C7.Up2Date
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certificit.BLL.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\refint\Certificit.BLL.dll
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\Certificit.BLL.pdb
+C:\Certificate-Layout-26-2-2024\Certificate Layeout api\Certificit.BLL\obj\Debug\net7.0\ref\Certificit.BLL.dll

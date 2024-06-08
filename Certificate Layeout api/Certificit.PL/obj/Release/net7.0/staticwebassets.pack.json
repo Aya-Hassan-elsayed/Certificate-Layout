@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Programing\\Freelance\\ReDesginePage\\Kashrut Of World\\Kashrut_Of_World api\\Kashrut Of World  Application\\KOW.PL\\wwwroot\\ApplicationsImages\\9e6715b7-a49c-4277-88ae-d3a952562186c.jpg",
+      "PackagePath": "staticwebassets\\ApplicationsImages\\9e6715b7-a49c-4277-88ae-d3a952562186c.jpg"
+    },
+    {
+      "Id": "D:\\Programing\\Freelance\\ReDesginePage\\Kashrut Of World\\Kashrut_Of_World api\\Kashrut Of World  Application\\KOW.PL\\wwwroot\\ApplicationsImages\\a2cf85be-1b48-4790-b6c4-5f75617247e2worldofkashrut.png",
+      "PackagePath": "staticwebassets\\ApplicationsImages\\a2cf85be-1b48-4790-b6c4-5f75617247e2worldofkashrut.png"
+    },
+    {
+      "Id": "D:\\Programing\\Freelance\\ReDesginePage\\Kashrut Of World\\Kashrut_Of_World api\\Kashrut Of World  Application\\KOW.PL\\wwwroot\\ApplicationsImages\\a9162bd0-1ed1-4a93-a0e7-cfc436ccd07a2.png",
+      "PackagePath": "staticwebassets\\ApplicationsImages\\a9162bd0-1ed1-4a93-a0e7-cfc436ccd07a2.png"
+    },
+    {
+      "Id": "D:\\Programing\\Freelance\\ReDesginePage\\Kashrut Of World\\Kashrut_Of_World api\\Kashrut Of World  Application\\KOW.PL\\wwwroot\\ApplicationsImages\\eee00b6b-c36f-4204-853f-6ce86c7ad81e2.png",
+      "PackagePath": "staticwebassets\\ApplicationsImages\\eee00b6b-c36f-4204-853f-6ce86c7ad81e2.png"
+    },
+    {
+      "Id": "D:\\Programing\\Freelance\\ReDesginePage\\Kashrut Of World\\Kashrut_Of_World api\\Kashrut Of World  Application\\KOW.PL\\wwwroot\\ssl\\privatekey.key",
+      "PackagePath": "staticwebassets\\ssl\\privatekey.key"
+    },
+    {
+      "Id": "D:\\Programing\\Freelance\\ReDesginePage\\Kashrut Of World\\Kashrut_Of_World api\\Kashrut Of World  Application\\KOW.PL\\wwwroot\\ssl\\worldofkashrut.com_chain.crt",
+      "PackagePath": "staticwebassets\\ssl\\worldofkashrut.com_chain.crt"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.KOW.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.KOW.PL.props",
+      "PackagePath": "build\\KOW.PL.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.KOW.PL.props",
+      "PackagePath": "buildMultiTargeting\\KOW.PL.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.KOW.PL.props",
+      "PackagePath": "buildTransitive\\KOW.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

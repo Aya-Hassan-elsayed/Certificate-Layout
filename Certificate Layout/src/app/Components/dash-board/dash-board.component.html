@@ -1,0 +1,52 @@
+<div class="DashBoard">
+  <div class="content">
+    <aside class="sidebar" [ngClass]="{'close': !isSideBarEnable}">
+      <div class="sidebar-header">
+        <img src="assets/Logos/rsc.png" />
+        <h6>المركز التكنولوجى للتسجيل المساحى العقارى </h6>
+      </div>
+      <nav class="sidebar-nav">
+        <ul>
+          <li >
+            <a [routerLink]="['Home']" >
+              <i class="fas fa-home"></i>
+              <span>الصفحة الرئيسية</span>
+            </a>
+          </li> 
+          <li (click)="toggleSubMenu('certificate')" [class.active]="activeSubMenu === 'certificate'" >
+            <a >
+              <i class="fas fa-home"></i>
+              <span> الطلبات </span>
+            </a>
+            <ul class="dropdown-menu" *ngIf="activeSubMenu === 'certificate'" [class.active]="activeSubMenu === 'certificate'">
+              <li *ngIf="isRole == 'SuperAdmin' ||isRole == 'Admin' || isRole == 'New' || isRole == 'Preview'">  <a [routerLink]="['certificateList']"> الطلبات الجديدة </a> </li>
+              <li *ngIf="isRole == 'SuperAdmin' || isRole == 'Admin' || isRole == 'Edit' || isRole == 'Preview'"><a [routerLink]="['certificateEditList']"> الطلبات المعاد دراستها</a></li>
+            </ul>
+          </li>
+          <li (click)="toggleSubMenu('Users')" [class.active]="activeSubMenu === 'Users'" *ngIf="isRole == 'SuperAdmin' || isRole == 'Admin'">
+            <a >
+              <i class="fas fa-users"></i>
+              <span> اعدادات المستخدمين</span>
+            </a>
+            <ul class="dropdown-menu" *ngIf="activeSubMenu === 'Users'" [class.active]="activeSubMenu === 'Users'" >
+              <li><a [routerLink]="['UsersList']"> قائمة المستخدمين</a></li>
+              <li><a [routerLink]="['RoleList']"> قائمة المسئوليات </a></li>
+              <li><a [routerLink]="['LogsList']">قائمة تتبع المستخدمين </a> </li>
+            </ul>
+          </li>        
+          <li >
+            <a [routerLink]="['../Login']" >
+              <i class="fas fa-logOut"></i>
+              <span>تسجيل الخروج</span>
+            </a>
+          </li>        
+        </ul>
+      </nav>
+      <img src="assets\Background\EdgeProLogo.png" alt="" srcset="">
+      <button [ngClass]="{'close-button': !isSideBarEnable}"  (click)="toggleSideBar()" class=" toggle-sideBar"><i *ngIf="!isSideBarEnable" class="fa-solid fa-angle-right"></i> <i *ngIf="isSideBarEnable" class="fa-solid fa-angle-left"></i> </button>
+    </aside>
+    <div class="Content" [ngClass]="{'width-all': !isSideBarEnable}">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>

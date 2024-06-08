@@ -1,0 +1,15 @@
+<div class="Main">
+    <div class="OutherContainerCertificate" id="OutherContainerCertificate">
+        <div class="InnerContainerCertificate">
+            <app-header-box></app-header-box>
+            <app-certificate-information></app-certificate-information>
+            <span *ngIf="isEditEnable"> كود التعديل =  {{Data.idShippingorder}}</span>
+        </div> 
+    </div>
+    
+    <div class="buttons">
+        <button *ngIf="Data.print != 'تم الطباعة' && Data.imageName != null" (click)="captureScreenshot2()" class="btn-print">Print</button>
+        <button (click)="bakePage()" class="btn-back">Back</button>
+    </div>
+
+</div>

@@ -1,0 +1,30 @@
+<div class="form-container">
+  <div class="form-field">
+    <label for="displayName" class="form-label">اسم المستخدم</label>
+    <input id="displayName" type="text" class="form-input" [value]="data.displayName" readonly>
+  </div>
+  <div class="form-field">
+    <label for="email" class="form-label">البريد الالكترونى</label>
+    <input id="email" type="text" class="form-input" [value]="data.email" readonly>
+  </div>
+  <div class="form-field">
+    <label for="phoneNumber" class="form-label">الهاتف المحمول</label>
+    <input id="phoneNumber" type="text" class="form-input" [value]="data.phoneNumber" readonly>
+  </div>
+
+  <table class="data-table">
+    <thead>
+      <tr>
+        <th scope="col" class="table-header">رقم المسلسل</th>
+        <th scope="col" class="table-header">المسئولية</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let role of data.roles; let i = index">
+        <td class="table-cell">{{ i + 1 }}</td>
+        <td class="table-cell">{{ role }}</td>
+      </tr>
+    </tbody>
+  </table>
+  <button class="text-bg-danger button" (click)="bakePage()">  الرجوع للصفحة السابقة </button>
+</div>

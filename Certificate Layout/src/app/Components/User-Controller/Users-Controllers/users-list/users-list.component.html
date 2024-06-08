@@ -1,0 +1,51 @@
+<div class="container">
+  <div class="row justify-content-between">
+    <a [routerLink]="['../AddNewUser']" class="btn ">
+      <i class="fas fa-plus"></i> Add New User
+    </a>
+  </div>
+
+  <table>
+    <thead >
+      <tr>
+        <th > رقم المسلسل</th>
+        <th >اسم المستخدم</th>
+        <th >البريد الالكترونى</th>
+        <th ></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of data; let i = index">
+        <td >{{ i + 1 }}</td>
+        <td >{{ user.displayName }}</td>
+        <td >{{ user.email }}</td>
+        <td >
+          <button  (click)="ShowData(user.id)"><i class="far fa-eye"></i></button>
+          <button  (click)="changePassword(user.id)"><i class="fa-solid fa-wand-magic-sparkles"></i></button>
+          <button  (click)="addRole(user.id)"><i class="fa-solid fa-lock"></i></button>
+          <button (click)="OpenAlertEnsureDelete(user.id)"><i class="fas fa-trash"></i></button>
+          <button (click)="resetPassword(user.email)"><i class="fa-solid fa-rotate-right"></i></button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="alert" role="alert" *ngIf="isEnable" [ngClass]="{'alert-success': isSuccess, 'alert-danger': isFailed}">
+    {{ Message }}
+  </div>
+
+  <div class="modal" *ngIf="isDeleted">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Are you sure you want to delete this?</h5>
+          <button type="button" class="btn-close" (click)="CloseAlertEnsureDelete()"></button>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" (click)="CloseAlertEnsureDelete()">No</button>
+          <button type="button" class="btn btn-danger" (click)="DeleteIteameSure()">Yes</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

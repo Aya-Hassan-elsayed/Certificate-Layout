@@ -1,0 +1,158 @@
+<div class="Maps"  [ngClass]="{'Ard': Data.unittype == 'ارض مقاسة بالمتر' || Data.unittype == 'ارض مقاسة بالفدان' || Data.unittype == 'مبنى بحديقة'}">
+    <div class="HouseSize"  >
+        <div class="note">
+            <p>ملاحظات الشهر العقارى</p>
+            <span class="inputData"></span>
+        </div>
+        <table class="House" *ngIf="Data.unittype == 'وحدة كوادريبلكس'" [ngClass]="{'Wehda-4': Data.unittype == 'وحدة كوادريبلكس'}" >
+            <tr>
+                <td colspan="3">
+                    الحدود والابعاد
+                     للوحدة الرابعة
+                </td>
+            </tr>
+            <tr>
+                <td>المسلسل</td>
+                <td>الحد</td>
+                <td class="size">الطول بالمتر</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>بحرى</td>
+                <td>{{Data.northl4}}</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>شرقى</td>
+                <td>{{Data.eastl4}}</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>قبلى</td>
+                <td>{{Data.southl4}}</td>
+            </tr>
+            <tr class="lastrow">
+                <td>4</td>
+                <td>غربى</td>
+                <td>{{Data.westL3}}</td>
+            </tr>
+        </table>
+        <table class="House" *ngIf="Data.unittype == 'وحدة تربليكس' || Data.unittype == 'وحدة كوادريبلكس'" [ngClass]="{'Wehda-4': Data.unittype == 'وحدة كوادريبلكس'}">
+            <tr>
+                <td colspan="3">
+                    الحدود والابعاد
+                     للوحدة الثالثة
+                </td>
+            </tr>
+            <tr>
+                <td>المسلسل</td>
+                <td>الحد</td>
+                <td class="size">الطول بالمتر</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>بحرى</td>
+                <td>{{Data.northL3}}</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>شرقى</td>
+                <td>{{Data.eastL3}}</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>قبلى</td>
+                <td>{{Data.southL3}}</td>
+            </tr>
+            <tr class="lastrow">
+                <td>4</td>
+                <td>غربى</td>
+                <td>{{Data.westL3}}</td>
+            </tr>
+        </table>
+        <table class="House" *ngIf="Data.unittype == 'وحدة دوبلكس' || Data.unittype == 'وحدة تربليكس' || Data.unittype =='وحدة كوادريبلكس'" [ngClass]="{'Wehda-4': Data.unittype == 'وحدة كوادريبلكس'}">
+            <tr>
+                <td colspan="3">
+                    الحدود والابعاد
+                     للوحدة للثانية 
+                </td>
+            </tr>
+            <tr>
+                <td>المسلسل</td>
+                <td>الحد</td>
+                <td class="size">الطول بالمتر</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>بحرى</td>
+                <td>{{Data.northL2}}</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>شرقى</td>
+                <td>{{Data.eastL2}}</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>قبلى</td>
+                <td>{{Data.southL2}}</td>
+            </tr>
+            <tr class="lastrow">
+                <td>4</td>
+                <td>غربى</td>
+                <td>{{Data.westL2}}</td>
+            </tr>
+        </table>
+        <table class="House" *ngIf="Data.unittype != 'ارض مقاسة بالمتر' && Data.unittype != 'ارض مقاسة بالفدان' && Data.unittype != 'مبنى' && Data.unittype != 'جراج'" [ngClass]="{'Wehda-4': Data.unittype == 'وحدة كوادريبلكس'}">
+            <tr>
+                <td colspan="3" *ngIf="Data.unittype != 'وحدة' && Data.unittype != 'وحدة دوبلكس' && Data.unittype != 'وحدة تربليكس'&& Data.unittype != 'وحدة كوادريبلكس' && Data.unittype != 'جراج'">
+                    الحدود والابعاد
+                    للشقة
+                </td> 
+                <td colspan="3" *ngIf="Data.unittype == 'وحدة' ">
+                    الحدود والابعاد
+                    للوحدة
+                </td>
+                <td colspan="3" *ngIf="Data.unittype == 'جراج' ">
+                    الحدود والابعاد
+                    للجراج
+                </td>
+                <td colspan="3" *ngIf="Data.unittype == 'وحدة دوبلكس' || Data.unittype == 'وحدة تربليكس'|| Data.unittype == 'وحدة كوادريبلكس'">
+                    الحدود والابعاد
+                     للوحدة الاولى 
+                </td>
+            </tr>
+            <tr>
+                <td>المسلسل</td>
+                <td>الحد</td>
+                <td class="size">الطول بالمتر</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>بحرى</td>
+                <td>{{Data.northL1}}</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>شرقى</td>
+                <td>{{Data.eastL1}}</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>قبلى</td>
+                <td>{{Data.southL1}}</td>
+            </tr>
+            <tr class="lastrow">
+                <td>4</td>
+                <td>غربى</td>
+                <td>{{Data.westL1}}</td>
+            </tr>
+        </table>
+
+
+    </div>
+    <div>
+        <img *ngIf="Data.imageName != null" [src]="Data.imageName" />
+    </div>
+    
+</div>

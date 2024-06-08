@@ -1,0 +1,31 @@
+<div class="parent clearfix">
+  <!-- <img src="../../../../assets/Background/beautiful-landscape.jpg" class="fixed z-10 w-2/12 md:block  hidden" alt="logo"> -->
+
+  <div class="bg-illustration">
+    <div class="burger-btn">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+
+  </div>
+
+  <div class="login">
+    <div class="container w-75">
+      <!-- <img src="../../../../assets/Background/beautiful-landscape.jpg" alt="logo_Mobile" class="logo_Mobile"> -->
+      <h1 class="text-center">تسجيل الدخول </h1>
+
+      <div class="login-form">
+        <form [formGroup]="loginForm" (ngSubmit)="submitForm(loginForm)">
+          <input type="email" placeholder="E-mail Address" formControlName="Email">
+          <input type="password" placeholder="Password" formControlName="Password">
+          <div class="text-red-700 bg-red-200 border border-red-500 py-2 px-4 rounded-md shadow-md" *ngIf="Error">
+            "The username or password you entered is incorrect."
+          </div>
+          <button type="submit" [disabled]="!loginForm.valid">LOG-IN</button>
+        </form>
+      </div>
+
+    </div>
+    </div>
+</div>

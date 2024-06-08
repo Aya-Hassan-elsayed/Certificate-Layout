@@ -1,0 +1,20 @@
+-- Table: public.log
+
+-- DROP TABLE IF EXISTS public.log;
+
+CREATE TABLE IF NOT EXISTS public.log
+(
+    id integer NOT NULL DEFAULT nextval('log_id_seq'::regclass),
+    username character varying COLLATE pg_catalog."default",
+    note character varying COLLATE pg_catalog."default",
+    email character varying COLLATE pg_catalog."default",
+    CONSTRAINT log_pkey PRIMARY KEY (id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public.log
+    OWNER to postgres;
+
+
+12-1222-0-00000176717

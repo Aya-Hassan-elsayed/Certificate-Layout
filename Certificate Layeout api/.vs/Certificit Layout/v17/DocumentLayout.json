@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D366ED16-E466-482A-8870-950F5097C056}|Certificit.BLL\\Certificit.BLL.csproj|c:\\certificate-layout-26-2-2024\\certificate layeout api\\certificit.bll\\specification\\filterspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D366ED16-E466-482A-8870-950F5097C056}|Certificit.BLL\\Certificit.BLL.csproj|solutionrelative:certificit.bll\\specification\\filterspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D366ED16-E466-482A-8870-950F5097C056}|Certificit.BLL\\Certificit.BLL.csproj|c:\\certificate-layout-26-2-2024\\certificate layeout api\\certificit.bll\\specification\\specificationprams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D366ED16-E466-482A-8870-950F5097C056}|Certificit.BLL\\Certificit.BLL.csproj|solutionrelative:certificit.bll\\specification\\specificationprams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D366ED16-E466-482A-8870-950F5097C056}|Certificit.BLL\\Certificit.BLL.csproj|c:\\certificate-layout-26-2-2024\\certificate layeout api\\certificit.bll\\specification\\editefilterspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D366ED16-E466-482A-8870-950F5097C056}|Certificit.BLL\\Certificit.BLL.csproj|solutionrelative:certificit.bll\\specification\\editefilterspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5ABDB77-3D0B-4C58-9032-10259DED7731}|Certificit.PL\\Certificit.PL.csproj|c:\\certificate-layout-26-2-2024\\certificate layeout api\\certificit.pl\\extentions\\addcustomserviceextenision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5ABDB77-3D0B-4C58-9032-10259DED7731}|Certificit.PL\\Certificit.PL.csproj|solutionrelative:certificit.pl\\extentions\\addcustomserviceextenision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpecificationPrams.cs",
+              "DocumentMoniker": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.BLL\\Specification\\SpecificationPrams.cs",
+              "RelativeDocumentMoniker": "Certificit.BLL\\Specification\\SpecificationPrams.cs",
+              "ToolTip": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.BLL\\Specification\\SpecificationPrams.cs",
+              "RelativeToolTip": "Certificit.BLL\\Specification\\SpecificationPrams.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA7wB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:27:03.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCustomServiceExtenision.cs",
+              "DocumentMoniker": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.PL\\Extentions\\AddCustomServiceExtenision.cs",
+              "RelativeDocumentMoniker": "Certificit.PL\\Extentions\\AddCustomServiceExtenision.cs",
+              "ToolTip": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.PL\\Extentions\\AddCustomServiceExtenision.cs",
+              "RelativeToolTip": "Certificit.PL\\Extentions\\AddCustomServiceExtenision.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwEEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:13:23.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilterSpecification.cs",
+              "DocumentMoniker": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.BLL\\Specification\\FilterSpecification.cs",
+              "RelativeDocumentMoniker": "Certificit.BLL\\Specification\\FilterSpecification.cs",
+              "ToolTip": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.BLL\\Specification\\FilterSpecification.cs*",
+              "RelativeToolTip": "Certificit.BLL\\Specification\\FilterSpecification.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:40:38.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditeFilterSpecification.cs",
+              "DocumentMoniker": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.BLL\\Specification\\EditeFilterSpecification.cs",
+              "RelativeDocumentMoniker": "Certificit.BLL\\Specification\\EditeFilterSpecification.cs",
+              "ToolTip": "C:\\Certificate-Layout-26-2-2024\\Certificate Layeout api\\Certificit.BLL\\Specification\\EditeFilterSpecification.cs",
+              "RelativeToolTip": "Certificit.BLL\\Specification\\EditeFilterSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:40:37.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

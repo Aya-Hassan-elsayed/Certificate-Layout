@@ -1,0 +1,40 @@
+
+@import '../../Scss/Variable.scss';
+
+.InformationRequest 
+{
+    width: 100%;
+    border-spacing: 0;
+    font-size: 12px;
+    tr 
+    {
+        width: 100%;
+        height: 7mm;
+        &:nth-child(1) td
+        {
+            border-top: .5mm solid $Blue-certificate-color;
+            text-align: center;
+            background-color: $Yellow-certificate-color;
+        }
+        td 
+        {
+            border-bottom: .5mm solid $Blue-certificate-color;
+            border-left: .5mm solid $Blue-certificate-color;
+            height: 100%;
+            text-align: center;
+            &:nth-child(1)
+            {
+                width: 42mm !important;
+                border-right: .5mm solid $Blue-certificate-color;
+                padding-right: 1mm;
+                font-size: 14px;
+            }
+            &:nth-child(2)
+            {
+                width: 31mm;
+                max-width: 31mm;
+                font-size: 14px;
+            }
+        }
+    }
+}

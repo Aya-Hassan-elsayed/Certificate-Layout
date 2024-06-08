@@ -1,0 +1,48 @@
+<div class="description">
+    <div>
+        <div class="up">
+            <div class="bulidingDesc">
+                <p>نوع الاستخدام</p>
+                <span>{{Data.usage}}</span>
+            </div>
+            <div class="bulidingDesc">
+                <p *ngIf="Data.unittype != 'ارض مقاسة بالمتر' && Data.unittype != 'ارض مقاسة بالفدان'">وصف المبنى</p>
+                <p *ngIf="Data.unittype == 'ارض مقاسة بالمتر' || Data.unittype == 'ارض مقاسة بالفدان'" >وصف قطعة الارض</p>
+              <span>{{Data.descrip}}</span>
+            </div>
+        </div>
+        <div class="Tadakhl">
+            <p>موقف  التدخلات </p>
+            <div>
+                <div class="bulidingDesc">
+                    <p>التداخل مع أراضى خريطة التنمية</p>
+                    <span class="size">{{Data.overlap}}</span>
+                </div>
+                <div class="bulidingDesc">
+                    <p>التداخل مع أراضى القوات المسلحة</p>
+                  <span class="size">{{Data.milOverlap}}</span>
+                </div>
+            </div>
+           
+        </div>
+    </div>
+
+    <div class="buildingArea">
+        <div>
+            <p *ngIf="Data.unittype == 'ارض مقاسة بالفدان' || Data.unittype == 'ارض مقاسة بالمتر'">
+                مساحة الارض  
+                <br>
+                بناءً على الرفع المساحى
+            </p>
+
+            <p *ngIf="Data.unittype != 'ارض مقاسة بالفدان' && Data.unittype != 'ارض مقاسة بالمتر'">
+                مساحة الوحدة بدون منافع
+                <br>
+                بناءً على الرفع المساحى
+            </p>
+            <p *ngIf="Data.unittype == 'ارض مقاسة بالمتر'">({{Data.areaLand}})م2</p>
+            <p *ngIf=" Data.unittype == 'ارض مقاسة بالفدان'">({{Data.areaLand}})فدان</p>
+            <p *ngIf=" Data.unittype != 'ارض مقاسة بالفدان' && Data.unittype != 'ارض مقاسة بالمتر'">({{Data.areaAp1}})فدان</p>
+        </div>
+    </div>
+</div>

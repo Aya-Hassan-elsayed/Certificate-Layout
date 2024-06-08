@@ -1,0 +1,154 @@
+@import '../../Scss/Variable.scss';
+
+.DashBoard {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  height: 100vh;
+  .content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    .sidebar {
+      width: 20vw;
+      height: 100%;
+      background-color: $main-color;
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      transition: all 1s ease-in-out;
+      .sidebar-header {
+        padding: 20px;
+        text-align: center;
+        img 
+        {
+          width: 50%;
+        }
+        h6 
+        {
+          font-weight: 400;
+          font-size: 12px;
+        }
+      }
+    
+      .sidebar-nav {
+        flex-grow: 1;
+    
+        ul {
+          list-style: none;
+          padding: 0;
+    
+          li {
+            position: relative; /* Add relative positioning to the list items */
+    
+            padding: 15px 20px;
+            border-bottom: 1px solid #555;
+            cursor: pointer;
+    
+            a {
+              color: #fff;
+              text-decoration: none;
+              display: flex;
+              align-items: center;
+    
+              i {
+                margin-right: 10px;
+              }
+            }
+    
+            &.active {
+              background-color: #555;
+            }
+    
+            &:hover {
+              background-color: #555;
+            }
+    
+            /* Style for dropdown menu */
+            .dropdown-menu {
+              display: none;
+              background-color: #333;
+              animation: fadeIn 0.3s ease;
+              position: absolute;
+              top: 100%;
+              left: 0;
+              z-index: 1;
+              li {  
+                padding: 10px 20px;
+                transition: background-color 0.3s ease; /* Add transition for smooth hover effect */
+                    
+              &:hover {
+                background-color: #555; /* Change background color on hover */
+                padding-left: 10px;
+              }
+              &:last-child
+              {
+                border-bottom: 0;
+              }
+              }
+
+
+            }
+    
+            /* Show dropdown menu when list item is active */
+            &.active .dropdown-menu {
+              display: block;
+            }
+          }
+        }
+      }
+      .toggle-sideBar
+      {
+        position: absolute;
+        top: 10%;
+        left: 18.5%;
+        width: 2%;
+        height: 4%;
+        background-color: $main-color;
+        color: #fff;
+        cursor: pointer;
+        border: 0px;
+        border-top-right-radius: 5px ;
+        border-bottom-right-radius: 5px ;
+        transition: all 1s ease-in-out;
+      }
+    }
+    .close 
+    {
+      margin-left: -20vw !important;
+    }
+    .close-button
+    {
+      margin-left: -18.5vw !important;
+      transition: all 2s ease-in-out;
+    }
+    .width-all
+    {
+      width: 99vw !important;
+    }
+    /* FadeIn animation */
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+    
+    .Content {
+      width: 86vw;
+      padding: 2%;
+      direction: rtl;
+      overflow-y: scroll;
+      height: 100vh;
+      transition: all 1s ease-in-out;
+    }
+    
+    .Content::-webkit-scrollbar {
+      display: none;
+    }
+    
+  }
+}

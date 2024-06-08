@@ -1,0 +1,15 @@
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\bin\Release\net7.0\KOW.BLL.deps.json
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\bin\Release\net7.0\KOW.BLL.dll
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\bin\Release\net7.0\KOW.BLL.pdb
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\bin\Release\net7.0\KOW.DAL.dll
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\bin\Release\net7.0\KOW.DAL.pdb
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\obj\Release\net7.0\KOW.BLL.csproj.AssemblyReference.cache
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\obj\Release\net7.0\KOW.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\obj\Release\net7.0\KOW.BLL.AssemblyInfoInputs.cache
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\obj\Release\net7.0\KOW.BLL.AssemblyInfo.cs
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\obj\Release\net7.0\KOW.BLL.csproj.CoreCompileInputs.cache
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\obj\Release\net7.0\KOW.BLL.csproj.CopyComplete
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\obj\Release\net7.0\KOW.BLL.dll
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\obj\Release\net7.0\refint\KOW.BLL.dll
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\obj\Release\net7.0\KOW.BLL.pdb
+D:\Programing\Freelance\ReDesginePage\Kashrut Of World\Kashrut_Of_World api\Kashrut Of World  Application\KOW.BLL\obj\Release\net7.0\ref\KOW.BLL.dll

@@ -1,0 +1,10 @@
+<div class="Adderess">
+    <h1>شهادة رفع مساحى رقمى </h1>
+    <div>
+        <p *ngIf="Data.unittype == 'ارض مقاسة بالمتر' || Data.unittype == 'ارض مقاسة بالفدان'">قطعة ارض رقم: <span class="blue">{{Data.ket3a}}</span></p>
+        <p *ngIf="Data.unittype != 'ارض مقاسة بالمتر'  &&  Data.unittype != 'ارض مقاسة بالفدان' "> عقار رقم: <span class="blue">{{Data.propertyN}}</span></p>
+        <p>شارع :<span class="blue">{{Data.streetname}}</span></p>
+        <p>بجهة :<span class="blue">{{Data.sec}}</span></p>
+        <p>محافظة :<span>{{Data.gov}}</span></p>
+    </div>
+</div>

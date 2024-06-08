@@ -1,0 +1,78 @@
+@import '../../../../Scss/Variable.scss';
+
+
+table {
+    width: 100%;
+    direction: rtl;
+    thead {
+      width: 100%;
+  
+      tr {
+        height: 63px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        margin-bottom: 10px;
+        width: 100%;
+  
+        th {
+          background-color: $main-color;
+          color: #fff;
+          text-align: center;
+          font-size: 18px;
+          font-weight: 400;
+          height: 100%;
+          width: calc(100% / 2) !important; // Adjust the number of columns as needed
+          line-height: 63px;
+          &:first-child {
+            border-top-right-radius: 7px;
+          }
+  
+          &:last-child {
+            border-top-left-radius: 7px;
+          }
+        }
+      }
+    }
+  
+    tbody {
+      width: 100%;
+  
+      tr {
+        height: 62px;
+        display: flex;
+        flex-direction: row;
+        align-items: center; // Vertically center the content of table rows
+        box-shadow: 0 2px 16px 0 rgba(153, 155, 168, 0.351);
+        margin-bottom: 10px;
+        width: 100%;
+        font-size: 16px;
+        font-weight: 400;
+        justify-content: space-around;
+        align-items: center;
+        td {
+            text-align: center;
+            font-size: 18px;
+            font-weight: 400;
+            height: 100%;
+            width: calc(100% / 2) !important; // Adjust the number of columns as needed
+            line-height: 63px;// Vertically center the content of table data cells
+            
+            button 
+            {
+                background-color: $main-color;
+                color: #FFF;
+                height: 32px;
+                border-radius: 10px;
+                line-height: 16px;
+                border: 0;
+                font-size: 14px;
+                font-weight: 400;
+                width: 100px;
+            }
+        }
+      }
+    }
+  }
+  

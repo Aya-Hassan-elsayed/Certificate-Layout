@@ -1,0 +1,8 @@
+<div class="TablesInformationAndMap">
+    <app-information-request *ngIf="Data.unittype == 'ارض مقاسة بالمتر' || Data.unittype == 'ارض مقاسة بالفدان' || Data.unittype == 'مبنى' || Data.unittype == 'جراج' || Data.unittype == 'مبنى بحديقة'|| Data.unittype == 'فيلا'"></app-information-request>
+    <app-information-request-all *ngIf="Data.unittype != 'ارض مقاسة بالمتر' && Data.unittype != 'ارض مقاسة بالفدان' && Data.unittype != 'مبنى' && Data.unittype != 'جراج' && Data.unittype != 'مبنى بحديقة'&& Data.unittype != 'فيلا'"></app-information-request-all>    
+    <app-information-for-owner-request></app-information-for-owner-request>
+    <app-table-cordinates></app-table-cordinates>
+    <app-table-edges></app-table-edges>
+    <app-map-leaflet></app-map-leaflet>
+</div>

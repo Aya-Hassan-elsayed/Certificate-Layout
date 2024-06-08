@@ -1,0 +1,28 @@
+<table *ngIf="Data.unittype != 'ارض مقاسة بالمتر'&& Data.unittype != 'ارض مقاسة بالفدان'&& Data.unittype != 'جراج'">
+    <tbody>
+        <tr>
+            <td>
+                مساحة الأرض = <span class="blue">{{Data.areaLand}}</span>م2
+            </td>
+            <td>
+                مساحة المنور= <span class="blue">{{Data.manwr}}</span>م2
+            </td>
+        </tr>
+        <tr>
+            <td>مساحة المبنى= <span class="blue">{{Data.areaBuild}}</span>م2</td>
+            <td>مساحة بير السلم= <span class="blue">{{manwar}}</span>م2</td>
+        </tr>
+    </tbody>
+</table>
+<table *ngIf=" Data.unittype == 'جراج'">
+    <tbody>
+        <tr>
+            <td>
+                مساحة الأرض = <span class="blue">{{Data.areaLand}}</span>م2
+            </td>
+            <td>
+                مساحة الجراج= <span class="blue">{{Data.areaBuild}}</span>م2
+            </td>
+        </tr>
+    </tbody>
+</table>
